@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LoadMesh",
+			"Path": "/Users/ivanpaulovich/git/unrealengine-tutorials/1-LoadMesh/LoadMesh/Source/LoadMesh.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LoadMeshEditor",
+			"Path": "/Users/ivanpaulovich/git/unrealengine-tutorials/1-LoadMesh/LoadMesh/Source/LoadMeshEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/1-LoadMesh/LoadMesh/Source/LoadMesh/LoadMesh.Build.cs",
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/1-LoadMesh/LoadMesh/Source/LoadMesh.Target.cs",
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/1-LoadMesh/LoadMesh/Source/LoadMeshEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}
