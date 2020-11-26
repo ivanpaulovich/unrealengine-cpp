@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/2-SwitchCameras/SwitchCameras/Source/SwitchCameras/SwitchCameras.Build.cs",
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/2-SwitchCameras/SwitchCameras/Source/SwitchCameras.Target.cs",
+		"/Users/ivanpaulovich/git/unrealengine-tutorials/2-SwitchCameras/SwitchCameras/Source/SwitchCamerasEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SwitchCameras",
+			"Path": "/Users/ivanpaulovich/git/unrealengine-tutorials/2-SwitchCameras/SwitchCameras/Source/SwitchCameras.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SwitchCamerasEditor",
+			"Path": "/Users/ivanpaulovich/git/unrealengine-tutorials/2-SwitchCameras/SwitchCameras/Source/SwitchCamerasEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
